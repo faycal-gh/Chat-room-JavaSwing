@@ -8,6 +8,7 @@ Chat application made with JavaSwing
   <li> Run The Client.java File and choose a nickname and press enter </li>
   <li> Enjoy ^^ </li>
  </ol>
-# THE OUTPUT:
+ 
+<h1> THE OUTPUT: </h1>
 
 ![alt text](https://github.com/faycal-gh/Chat-room-JavaSwing/blob/master/OUTPUT.PNG)
